@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "title": "Algo challenge",
+    "difficulty": "medium",
+    "points": 20
+  },
+  {
+    "id": 2,
+    "title": "Algo challenge",
+    "difficulty": "medium",
+    "points": 20
+  }
+]
