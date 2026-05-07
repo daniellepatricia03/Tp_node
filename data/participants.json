@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "Bernadette dJouboune",
+    "email": "bernadette.djouboune@example.com",
+    "score": 85
+  },
+  {
+    "id": 2,
+    "name": "John Doe",
+    "email": "john.doe@example.com",
+    "score": 90
+  },
+  {
+    "id": 3,
+    "name": "Jane Smith",
+    "email": "jane.smith@example.com",
+    "score": 75
+  }
+]
